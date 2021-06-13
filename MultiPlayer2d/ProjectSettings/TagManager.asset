@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Beam
+  - Flag
+  - FlagManager
+  - Timer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MiniMap
+  - Flag
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2927042169
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MiniMap
+    uniqueID: 1406140509
+    locked: 0
+  - name: Flag
+    uniqueID: 966037259
+    locked: 0
